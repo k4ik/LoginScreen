@@ -1,5 +1,5 @@
 <template>
-    <a class="right">Esqueceu sua senha?</a>
+    <router-link to="/forgot-password" class="right">Esqueceu sua senha?</router-link>
 </template>
 
 <script>
