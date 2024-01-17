@@ -1,11 +1,9 @@
 <template>
-  <div class="container-screen">
-    <img src="./assets/images/fiverr.svg" alt="">
-  </div>
+  <router-view></router-view>
 </template>
 
 <script>
 export default {
-  
+  name: "App"
 }
 </script>
