@@ -22,5 +22,10 @@
     padding: 8.5px 0;
     border: none;
     border-radius: 24px;
+
+    &:hover {
+        transform: scale(1.05);
+        transition: 0.5s;
+    }
 }
 </style>
