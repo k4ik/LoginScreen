@@ -1,13 +1,13 @@
 <template>
     <div class="container-input">
         <img :src="inputImg" alt="">
-        <input type="text" :placeholder="inputText">
+        <input :type="inputType" :placeholder="inputText">
     </div>
 </template>
 
 <script>
 export default {
-    props: ["inputImg", "inputText"]
+    props: ["inputImg", "inputText", "inputType"]
 }
 </script>
 
