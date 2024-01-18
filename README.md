@@ -1,5 +1,5 @@
 # Login Screen
-<img src="https://media.discordapp.net/attachments/1129232473470029864/1197314776284549240/mockup.jpg?ex=65bad147&is=65a85c47&hm=abfed5cfc3706f12e8b080904e697fa415c0f47b3a9e68e3fd8782a959df6907&=&format=webp&width=657&height=467" alt="login screen">
+<img src="https://media.discordapp.net/attachments/1129232473470029864/1197331362986852383/mockup.jpg?ex=65bae0ba&is=65a86bba&hm=dcbba6c9554df18aecb895ac2352963e9292cbb33ba5037dcfb0619b5d841bbd&=&format=webp" alt="login screen" style="width: 100%; height: 500px; object-fit: cover;">
 
 ## Downloading the Project
 Open your terminal and navigate to the directory where you want to download the project. Then, run the following command to clone the repository:
